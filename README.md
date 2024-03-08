@@ -11,4 +11,6 @@ https://acikyesil.bursa.bel.tr/
 Google Maps yararlanılmıştır.
 React İconlardan yararlanılmıştır.
 Vercel:
-GitHup:
+proje-teslim-17h01yyqf-fundadislis-projects.vercel.app
+https://proje-teslim-api.vercel.app/Tarih
+GitHup:https://github.com/Funda-Disli/PROJE.TESLIM.API
